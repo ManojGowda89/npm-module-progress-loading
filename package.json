@@ -1,0 +1,14 @@
+{
+  "name": "progress-loading",
+  "version": "1.0.0",
+  "description": "loading package with progress 0 -100%",
+  "main": "Loading.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manoj Gowda",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
